@@ -1,8 +1,6 @@
 @echo off
-cls
 title GoodbyeDPI
 color 0b
-:start
 call :banner
 
 :menu
