@@ -1,7 +1,7 @@
 # GoodbyeDPI launcher
 Simplest launcher for GoodbyeDPI
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Forbirdden/LauncherForGoodbyeDPI/total?style=for-the-badge&labelColor=000000&color=05fcfc)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Forbirdden/LauncherForGoodbyeDPI/total?style=for-the-badge&labelColor=000000&color=00ffff)
 
 
 Put launcher directly into GoodbyeDPI location
